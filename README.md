@@ -1,9 +1,9 @@
 # ArrayListExercise
-Working with Array Lists<br /><br />
+Working with Array Lists in C#<br /><br />
 
 # Simple ArrayList Exercise
 Create an application like the video named ArrayListEx1.<br />
-When the form is loaded, create an array list with the following 5 values.<br />
+When the form is loaded, create an array list with the following 5 values.<br /><br />
 I<br /><br />
 Love<br /><br />
 Programming<br /><br />
