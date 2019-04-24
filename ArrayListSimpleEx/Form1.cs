@@ -12,6 +12,7 @@ namespace ArrayListSimpleEx
 {
     public partial class Form1 : Form
     {
+        int i = 0;
         public Form1()
         {
             InitializeComponent();
